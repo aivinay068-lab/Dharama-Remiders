@@ -1,0 +1,6 @@
+{
+  "name": "Dharma Reminders",
+  "description": "Festive day reminder and calendar for Indian religious and special days with customized ritual guides, fasting trackers, and personalized AI spiritual advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
